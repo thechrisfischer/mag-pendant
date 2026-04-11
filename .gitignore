@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+dist/
+build/
+.eggs/
+*.opus
+*.wav
+*.bin
+data/
+keys/
+.env
+.mag-pendant/
+
+# Reference repos (cloned for research)
+pendant-cli/
+Limitless-Pendant-to-Omi-Sync-macOS/
+
+# Lock files
+uv.lock
